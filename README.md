@@ -12,6 +12,10 @@ pip install requests<br/>
 press enter and wait till the download is complete.you are done.
 now enjoy the program.
 
+> Usage:
+--------
+Open the program and then Enter your notifier name then enter a file that contains list of hacked site and press enter.Rest in peace.<br/>WARNING: must use http:// for each hacked sites.If you do not do this, the program will not work for you.
+
 > Contact me:
 -------------
 Facebook.com/wax.vampire
