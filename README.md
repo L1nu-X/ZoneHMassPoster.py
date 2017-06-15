@@ -1,6 +1,10 @@
 # ZoneHMassPoster.py
 A python program for notifying list of hacked websites.Third party module is needed to use this program.
 
+> Update:
+----------
+Use the zh.py file so that you need not to install any third party modules and it works in handy.
+
 > Guideline:
 ------------
 You need to install requests module in your computer first to use this.
